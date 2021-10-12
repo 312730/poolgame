@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hitball.mp3-15cabb0d826723b6be47a52e180c635d.mp3str"
+
+[deps]
+
+source_file="res://audio/hitball.mp3"
+dest_files=[ "res://.import/hitball.mp3-15cabb0d826723b6be47a52e180c635d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

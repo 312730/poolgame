@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ballhitcorner.mp3-fde8569fb126aa73d19281b71748f3af.mp3str"
+
+[deps]
+
+source_file="res://audio/ballhitcorner.mp3"
+dest_files=[ "res://.import/ballhitcorner.mp3-fde8569fb126aa73d19281b71748f3af.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
